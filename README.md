@@ -1,2 +1,2 @@
 # repositorioPruebaCapacitacion
-dfs
+Repositorio para capacitaciòn de GIT
